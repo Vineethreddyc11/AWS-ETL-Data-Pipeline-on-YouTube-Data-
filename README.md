@@ -1,5 +1,5 @@
 # AWS-ETL-Data-Pipeline-on-YouTube-Data-
-ETL big data pipeline to manage, streamline, and perform analysis on structured and semi-structured data of more than 100,000 YouTube videos collected using YouTube API based on video categories and trending metrics
+Developed ETL big data pipeline to manage, streamline, and perform analysis on structured and semi-structured data of more than 100,000 YouTube videos collected using YouTube API based on video categories and trending metrics
 
 ## Architecture
 <img width="786" alt="Screen Shot 2022-10-24 at 6 01 48 PM" src="https://user-images.githubusercontent.com/68578215/197658276-4ab7e336-9b88-477e-b7d0-2177a386dce8.png">
