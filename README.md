@@ -33,9 +33,9 @@ are among the items included in the data. A category_id field, which differs by 
 also included in the JSON file linked to the region.
 
 ## Tech Stack:
-### ➔ Languages : SQL, Python3
+### **Languages : ** SQL, Python3
 
-### ➔ Services : AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
+### **Services :**  AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
 
 ### Amazon S3
 Amazon S3 is an object storage service that provides manufacturing scalability, data
